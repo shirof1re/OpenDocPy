@@ -6,32 +6,37 @@
         "maintenanceMsg": "Server is currently under maintenance!",
         "mode": "cn",
         "adaptive": true,
-        "noProxy": false
+        "noProxy": false,
+        "gadget": false,
+        "useSu": false
     },
     "assets": {
         "autoUpdate": false,
         "downloadLocally": true,
-        "enableMods": false
+        "enableMods": false,
+        "skipModCacheValidation": false
     },
     "version": {
         "android": {
-            "resVersion": "23-12-25-13-27-36-ad9fbc",
-            "clientVersion": "2.1.41"
+            "resVersion": "24-07-31-04-23-55-e2099f",
+            "clientVersion": "2.3.21"
         }
     },
-    "remote": {
-        "enableGameBI": false,
-        "enableSDKNetSecure": true,
-        "enableBestHttp": true
+    "versionGlobal": {
+        "android": {
+            "resVersion": "24-07-29-13-08-11-60230f",
+            "clientVersion": "24.2.21"
+        }
     },
+    "remote": {},
     "networkConfig": {
         "cn": {
             "sign": "sign",
             "content": {
                 "configVer": "5",
-                "funcVer": "V045",
+                "funcVer": "V053",
                 "configs": {
-                    "V045": {
+                    "V053": {
                         "override": true,
                         "network": {
                             "gs": "{server}",
@@ -56,9 +61,9 @@
             "sign": "sign",
             "content": {
                 "configVer": "1",
-                "funcVer": "V029",
+                "funcVer": "V048",
                 "configs": {
-                    "V029": {
+                    "V048": {
                         "override": true,
                         "network": {
                             "gs": "{server}",
@@ -84,7 +89,7 @@
         "selectedCrisis": "cc12"
     },
     "crisisV2Config": {
-        "selectedCrisis": "cc1"
+        "selectedCrisis": "legacy-cc5"
     },
     "towerConfig": {
         "season": "tower_season_4"
@@ -93,21 +98,23 @@
         "allChars": true
     },
     "battleReplayConfig": {
-        "anonymous": false
+        "anonymous": true
     },
     "userConfig": {
         "restorePreviousStates": {
             "is2": false,
-            "squadsAndFavs": false,
-            "ui": false
+            "squadsAndFavs": true,
+            "ui": true
         },
-        "activityMinStartTs": 1702627200,
-        "activityMaxStartTs": 1704657599,
+        "activityMinStartTs": 1721880000,
+        "activityMaxStartTs": 1724875199,
         "secretary": "char_2014_nian",
         "secretarySkinId": "char_2014_nian@nian#4",
         "background": "bg_kazimierz_1",
         "theme": "tm_mainline_1",
-        "fakeTime": -1
+        "fakeTime": -1,
+        "vision": true,
+        "simulateGacha": true
     },
     "charConfig": {
         "favorPoint": 25570,
@@ -118,167 +125,5 @@
         "skillsSpecializeLevel": 3,
         "customUnitInfo": {},
         "duplicateUnits": []
-    },
-    "assistUnits": [
-        {
-            "charId": "char_479_sleach",
-            "skillIndex": 2,
-            "currentEquip": "uniequip_002_sleach"
-        },
-        {
-            "charId": "char_293_thorns",
-            "skillIndex": 2,
-            "currentEquip": null
-        },
-        {
-            "charId": "char_4064_mlynar",
-            "skillIndex": 2,
-            "currentEquip": null
-        },
-        {
-            "charId": "char_264_f12yin",
-            "skillIndex": 1,
-            "currentEquip": null
-        },
-        {
-            "charId": "char_350_surtr",
-            "skillIndex": 2,
-            "currentEquip": null
-        },
-        {
-            "charId": "char_1013_chen2",
-            "skillIndex": 2,
-            "currentEquip": null
-        },
-        {
-            "charId": "char_003_kalts",
-            "skillIndex": 2,
-            "currentEquip": "uniequip_003_kalts"
-        },
-        {
-            "charId": "char_179_cgbird",
-            "skillIndex": 2,
-            "currentEquip": "uniequip_002_cgbird"
-        },
-        {
-            "charId": "char_358_lisa",
-            "skillIndex": 2,
-            "currentEquip": "uniequip_003_lisa"
-        },
-        {
-            "charId": "char_1012_skadi2",
-            "skillIndex": 2,
-            "currentEquip": null
-        },
-        {
-            "charId": "char_1028_texas2",
-            "skillIndex": 2,
-            "currentEquip": "uniequip_002_texas2"
-        },
-        {
-            "charId": "char_1026_gvial2",
-            "skillIndex": 1,
-            "currentEquip": "uniequip_002_gvial2"
-        },
-        {
-            "charId": "char_1014_nearl2",
-            "skillIndex": 2,
-            "currentEquip": "uniequip_002_nearl2"
-        },
-        {
-            "charId": "char_311_mudrok",
-            "skillIndex": 1,
-            "currentEquip": "uniequip_002_mudrok"
-        },
-        {
-            "charId": "char_202_demkni",
-            "skillIndex": 0,
-            "currentEquip": "uniequip_003_demkni"
-        },
-        {
-            "charId": "char_202_demkni",
-            "skillIndex": 1,
-            "currentEquip": "uniequip_003_demkni"
-        },
-        {
-            "charId": "char_4055_bgsnow",
-            "skillIndex": 2,
-            "currentEquip": "uniequip_002_bgsnow"
-        },
-        {
-            "charId": "char_2012_typhon",
-            "skillIndex": 2,
-            "currentEquip": "uniequip_002_typhon"
-        },
-        {
-            "charId": "char_180_amgoat",
-            "skillIndex": 2,
-            "currentEquip": "uniequip_002_amgoat"
-        },
-        {
-            "charId": "char_134_ifrit",
-            "skillIndex": 2,
-            "currentEquip": "uniequip_002_ifrit"
-        },
-        {
-            "charId": "char_4087_ines",
-            "skillIndex": 2,
-            "currentEquip": null
-        },
-        {
-            "charId": "char_4116_blkkgt",
-            "skillIndex": 2,
-            "currentEquip": "uniequip_002_blkkgt"
-        },
-        {
-            "charId": "char_017_huang",
-            "skillIndex": 1,
-            "currentEquip": "uniequip_002_huang"
-        },
-        {
-            "charId": "char_263_skadi",
-            "skillIndex": 2,
-            "currentEquip": "uniequip_003_skadi"
-        },
-        {
-            "charId": "char_1034_jesca2",
-            "skillIndex": 2,
-            "currentEquip": null
-        },
-        {
-            "charId": "char_2014_nian",
-            "skillIndex": 1,
-            "currentEquip": "uniequip_002_nian"
-        },
-        {
-            "charId": "char_136_hsguma",
-            "skillIndex": 1,
-            "currentEquip": "uniequip_003_hsguma"
-        },
-        {
-            "charId": "char_340_shwaz",
-            "skillIndex": 2,
-            "currentEquip": "uniequip_003_shwaz"
-        },
-        {
-            "charId": "char_2013_cerber",
-            "skillIndex": 1,
-            "currentEquip": "uniequip_002_cerber"
-        },
-        {
-            "charId": "char_4080_lin",
-            "skillIndex": 2,
-            "currentEquip": "uniequip_002_lin"
-        },
-        {
-            "charId": "char_1016_agoat2",
-            "skillIndex": 2,
-            "currentEquip": null
-        },
-        {
-            "charId": "char_1029_yato2",
-            "skillIndex": 2,
-            "currentEquip": "uniequip_002_yato2"
-        }
-    ]
+    }
 }
