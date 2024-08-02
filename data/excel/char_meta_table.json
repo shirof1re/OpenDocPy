@@ -21,6 +21,9 @@
     "char_4093_frston": [
       "char_4093_frston"
     ],
+    "char_4136_phonor": [
+      "char_4136_phonor"
+    ],
     "char_502_nblade": [
       "char_502_nblade",
       "char_1029_yato2"
@@ -39,7 +42,8 @@
       "char_009_12fce"
     ],
     "char_123_fang": [
-      "char_123_fang"
+      "char_123_fang",
+      "char_1036_fang2"
     ],
     "char_240_wyvern": [
       "char_240_wyvern"
@@ -239,6 +243,9 @@
     "char_381_bubble": [
       "char_381_bubble"
     ],
+    "char_4130_luton": [
+      "char_4130_luton"
+    ],
     "char_196_sunbr": [
       "char_196_sunbr"
     ],
@@ -288,6 +295,9 @@
     "char_513_apionr": [
       "char_513_apionr"
     ],
+    "char_4023_rfalcn": [
+      "char_4023_rfalcn"
+    ],
     "char_261_sddrag": [
       "char_261_sddrag",
       "char_1020_reed2"
@@ -298,8 +308,14 @@
     "char_401_elysm": [
       "char_401_elysm"
     ],
+    "char_4119_wanqin": [
+      "char_4119_wanqin"
+    ],
     "char_476_blkngt": [
       "char_476_blkngt"
+    ],
+    "char_4147_mitm": [
+      "char_4147_mitm"
     ],
     "char_497_ctable": [
       "char_497_ctable"
@@ -316,6 +332,9 @@
     ],
     "char_4106_bryota": [
       "char_4106_bryota"
+    ],
+    "char_4125_rdoc": [
+      "char_4125_rdoc"
     ],
     "char_106_franka": [
       "char_106_franka"
@@ -363,6 +382,9 @@
     "char_356_broca": [
       "char_356_broca"
     ],
+    "char_4126_fuze": [
+      "char_4126_fuze"
+    ],
     "char_274_astesi": [
       "char_274_astesi"
     ],
@@ -380,6 +402,9 @@
     ],
     "char_486_takila": [
       "char_486_takila"
+    ],
+    "char_4131_odda": [
+      "char_4131_odda"
     ],
     "char_129_bluep": [
       "char_129_bluep"
@@ -463,6 +488,9 @@
     "char_489_serum": [
       "char_489_serum"
     ],
+    "char_446_aroma": [
+      "char_446_aroma"
+    ],
     "char_4013_kjera": [
       "char_4013_kjera"
     ],
@@ -475,11 +503,17 @@
     "char_499_kaitou": [
       "char_499_kaitou"
     ],
+    "char_4081_warmy": [
+      "char_4081_warmy"
+    ],
     "char_242_otter": [
       "char_242_otter"
     ],
     "char_336_folivo": [
       "char_336_folivo"
+    ],
+    "char_4140_lasher": [
+      "char_4140_lasher"
     ],
     "char_108_silent": [
       "char_108_silent",
@@ -518,6 +552,9 @@
     "char_4071_peper": [
       "char_4071_peper"
     ],
+    "char_4139_papyrs": [
+      "char_4139_papyrs"
+    ],
     "char_148_nearl": [
       "char_148_nearl",
       "char_1014_nearl2"
@@ -542,6 +579,9 @@
     ],
     "char_107_liskam": [
       "char_107_liskam"
+    ],
+    "char_4137_udflow": [
+      "char_4137_udflow"
     ],
     "char_201_moeshd": [
       "char_201_moeshd"
@@ -624,6 +664,9 @@
     "char_254_vodfox": [
       "char_254_vodfox"
     ],
+    "char_4079_haini": [
+      "char_4079_haini"
+    ],
     "char_195_glassb": [
       "char_195_glassb"
     ],
@@ -632,6 +675,9 @@
     ],
     "char_4032_provs": [
       "char_4032_provs"
+    ],
+    "char_4122_grabds": [
+      "char_4122_grabds"
     ],
     "char_433_windft": [
       "char_433_windft"
@@ -678,6 +724,12 @@
     "char_4016_kazema": [
       "char_4016_kazema"
     ],
+    "char_4124_iana": [
+      "char_4124_iana"
+    ],
+    "char_4151_tinman": [
+      "char_4151_tinman"
+    ],
     "char_103_angel": [
       "char_103_angel"
     ],
@@ -697,7 +749,8 @@
       "char_430_fartth"
     ],
     "char_113_cqbw": [
-      "char_113_cqbw"
+      "char_113_cqbw",
+      "char_1035_wisdel"
     ],
     "char_300_phenxi": [
       "char_300_phenxi"
@@ -710,6 +763,12 @@
     ],
     "char_391_rosmon": [
       "char_391_rosmon"
+    ],
+    "char_4117_ray": [
+      "char_4117_ray"
+    ],
+    "char_4138_narant": [
+      "char_4138_narant"
     ],
     "char_112_siege": [
       "char_112_siege"
@@ -751,6 +810,9 @@
     "char_4027_heyak": [
       "char_4027_heyak"
     ],
+    "char_4133_logos": [
+      "char_4133_logos"
+    ],
     "char_2015_dusk": [
       "char_2015_dusk"
     ],
@@ -769,6 +831,9 @@
     "char_4046_ebnhlz": [
       "char_4046_ebnhlz"
     ],
+    "char_4146_nymph": [
+      "char_4146_nymph"
+    ],
     "char_206_gnosis": [
       "char_206_gnosis"
     ],
@@ -780,6 +845,9 @@
     ],
     "char_248_mgllan": [
       "char_248_mgllan"
+    ],
+    "char_4134_cetsyr": [
+      "char_4134_cetsyr"
     ],
     "char_2023_ling": [
       "char_2023_ling"
@@ -808,8 +876,14 @@
     "char_437_mizuki": [
       "char_437_mizuki"
     ],
+    "char_4132_ascln": [
+      "char_4132_ascln"
+    ],
     "char_4048_doroth": [
       "char_4048_doroth"
+    ],
+    "char_4123_ela": [
+      "char_4123_ela"
     ],
     "char_147_shining": [
       "char_147_shining"
@@ -831,6 +905,9 @@
     ],
     "char_423_blemsh": [
       "char_423_blemsh"
+    ],
+    "char_2025_shu": [
+      "char_2025_shu"
     ],
     "char_2014_nian": [
       "char_2014_nian"
@@ -865,6 +942,12 @@
     "char_4088_hodrer": [
       "char_4088_hodrer"
     ],
+    "char_4145_ulpia": [
+      "char_4145_ulpia"
+    ],
+    "char_4058_pepe": [
+      "char_4058_pepe"
+    ],
     "char_010_chen": [
       "char_010_chen",
       "char_1013_chen2"
@@ -886,6 +969,9 @@
     ],
     "char_188_helage": [
       "char_188_helage"
+    ],
+    "char_4121_zuole": [
+      "char_4121_zuole"
     ],
     "char_485_pallas": [
       "char_485_pallas"
