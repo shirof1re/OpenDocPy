@@ -6,14 +6,15 @@ from base64 import b64encode
 from hashlib import md5
 from flask import request
 
-from constants import USER_JSON_PATH, CONFIG_PATH, BATTLE_REPLAY_JSON_PATH, \
+from constants import USER_JSON_PATH, CONFIG_PATH, BATTLE_REPLAY_JSON_PATH, GACHA_JSON_PATH, SANDBOX_JSON_PATH, GACHA_TEMP_JSON_PATH, RLV2_JSON_PATH, RLV2_STATIC_JSON_PATH, CRISIS_V2_JSON_BASE_PATH, \
                     SKIN_TABLE_URL, CHARACTER_TABLE_URL, EQUIP_TABLE_URL, STORY_TABLE_URL, STAGE_TABLE_URL, \
                     SYNC_DATA_TEMPLATE_PATH, BATTLEEQUIP_TABLE_URL, DM_TABLE_URL, RETRO_TABLE_URL, \
-                    HANDBOOK_INFO_TABLE_URL, MAILLIST_PATH, CHARM_TABLE_URL, ACTIVITY_TABLE_URL, SQUADS_PATH, STORY_REVIEW_TABLE_URL, ENEMY_HANDBOOK_TABLE_URL, MEDAL_TABLE_URL, RL_TABLE_URL
+                    HANDBOOK_INFO_TABLE_URL, MAILLIST_PATH, CHARM_TABLE_URL, ACTIVITY_TABLE_URL, SQUADS_PATH, STORY_REVIEW_TABLE_URL, ENEMY_HANDBOOK_TABLE_URL, MEDAL_TABLE_URL, RL_TABLE_URL, CHARWORD_TABLE_URL, STORY_REVIEW_META_TABLE_URL
 from utils import read_json, write_json
 from core.function.update import updateData
 import uuid
 from building import buildingSync
+from gacha import getTags
 
 def accountLogin():
     try:
@@ -53,6 +54,7 @@ def accountSyncData():
     retro_table = updateData(RETRO_TABLE_URL)
     charm_table = updateData(CHARM_TABLE_URL)
     activity_table = updateData(ACTIVITY_TABLE_URL)
+    charword_table = updateData(CHARWORD_TABLE_URL)
 
     ts = round(time())
     cnt = 0
@@ -116,6 +118,9 @@ def accountSyncData():
                 evolvePhase = edit_json["evolvePhase"]
         cntInstId = int(operatorKeys[cnt].split('_')[1])
         maxInstId = max(maxInstId, cntInstId)
+        voiceLan = "JP"
+        if operatorKeys[cnt] in charword_table["charDefaultTypeDict"]:
+            voiceLan = charword_table["charDefaultTypeDict"][operatorKeys[cnt]]
         myCharList[int(cntInstId)] = {
             "instId": int(cntInstId),
             "charId": operatorKeys[cnt],
@@ -129,7 +134,7 @@ def accountSyncData():
             "defaultSkillIndex": len(character_table[i]["skills"])-1,
             "gainTime": int(time()),
             "skills": [],
-            "voiceLan": "JP",
+            "voiceLan": voiceLan,
             "currentEquip": None,
             "equip": {},
             "starMark": 0
@@ -226,11 +231,26 @@ def accountSyncData():
                         ],
                         "currentEquip": None,
                         "equip": {},
+                    },
+                    "char_1037_amiya3": {
+                        "skinId": "char_1037_amiya3#2",
+                        "defaultSkillIndex": 1,
+                        "skills": [
+                            {
+                                "skillId": skill_name,
+                                "unlock": 1,
+                                "state": 0,
+                                "specializeLevel": edit_json["skillsSpecializeLevel"],
+                                "completeUpgradeTime": -1
+                            } for skill_name in ["skchr_amiya3_1", "skchr_amiya3_2"]
+                        ],
+                        "currentEquip": None,
+                        "equip": {},
                     }
                 }
             })
             for equip in equip_table["charEquip"]["char_002_amiya"]:
-                level = 1
+                level = 3
                 if equip in list(battle_equip_table.keys()):
                     level = len(battle_equip_table[equip]["phases"])
                 myCharList[int(cntInstId)]["tmpl"]["char_002_amiya"]["equip"].update({
@@ -241,6 +261,18 @@ def accountSyncData():
                     }
                 })
             myCharList[int(cntInstId)]["tmpl"]["char_002_amiya"]["currentEquip"] = equip_table["charEquip"]["char_002_amiya"][-1]
+            for equip in equip_table["charEquip"]["char_1037_amiya3"]:
+                level = 3
+                if equip in list(battle_equip_table.keys()):
+                    level = len(battle_equip_table[equip]["phases"])
+                myCharList[int(cntInstId)]["tmpl"]["char_1037_amiya3"]["equip"].update({
+                    equip: {
+                        "hide": 0,
+                        "locked": 0,
+                        "level": level
+                    }
+                })
+            myCharList[int(cntInstId)]["tmpl"]["char_1037_amiya3"]["currentEquip"] = equip_table["charEquip"]["char_1037_amiya3"][-1]
         elif operatorKeys[cnt] == "char_512_aprot":
             myCharList[int(cntInstId)]["skin"] = "char_512_aprot#1"
 
@@ -359,11 +391,7 @@ def accountSyncData():
     for retro in retro_table["retroTrailList"]:
         trail.update({retro:{}})
         for trailReward in retro_table["retroTrailList"][retro]["trailRewardList"]:
-            trail.update({
-                retro: {
-                    trailReward["trailRewardId"]: 1
-                }
-            })
+            trail[retro][trailReward["trailRewardId"]] = 1
     player_data["user"]["retro"]["trail"] = trail
 
     # Tamper Anniliations
@@ -492,7 +520,8 @@ def accountSyncData():
     # Enable battle replays
     if replay_data["currentCharConfig"] in list(replay_data["saved"].keys()):
         for replay in replay_data["saved"][replay_data["currentCharConfig"]]:
-            player_data["user"]["dungeon"]["stages"][replay]["hasBattleReplay"] = 1
+            if replay in player_data["user"]["dungeon"]["stages"]:
+                player_data["user"]["dungeon"]["stages"][replay]["hasBattleReplay"] = 1
 
     squads_data = read_json(SQUADS_PATH)
     charId2instId = {}
@@ -520,21 +549,23 @@ def accountSyncData():
     player_data["user"]["troop"]["squads"] = squads_data
 
     # Copy over from previous launch if data exists
-    if "user" in list(saved_data.keys()) and config["userConfig"]["restorePreviousStates"]["squadsAndFavs"]:
+    if "user" in saved_data and config["userConfig"]["restorePreviousStates"]["squadsAndFavs"]:
         player_data["user"]["troop"]["squads"] = saved_data["user"]["troop"]["squads"]
 
         for _, saved_character in saved_data["user"]["troop"]["chars"].items():
-            index = "0"
+            index = None
             for character_index, character in player_data["user"]["troop"]["chars"].items():
                 if saved_character["charId"] == character["charId"]:
                     index = character_index
                     break
 
-            player_data["user"]["troop"]["chars"][index]["starMark"] = saved_character["starMark"]
-            player_data["user"]["troop"]["chars"][index]["voiceLan"] = saved_character["voiceLan"]
-            player_data["user"]["troop"]["chars"][index]["skin"] = saved_character["skin"]
-            player_data["user"]["troop"]["chars"][index]["defaultSkillIndex"] = saved_character["defaultSkillIndex"]
-            player_data["user"]["troop"]["chars"][index]["currentEquip"] = saved_character["currentEquip"]
+            if index is not None:
+                player_data["user"]["troop"]["chars"][index]["starMark"] = saved_character["starMark"]
+                player_data["user"]["troop"]["chars"][index]["voiceLan"] = saved_character["voiceLan"]
+                player_data["user"]["troop"]["chars"][index]["skin"] = saved_character["skin"]
+                player_data["user"]["troop"]["chars"][index]["defaultSkillIndex"] = saved_character["defaultSkillIndex"]
+                if saved_character["currentEquip"]:
+                    player_data["user"]["troop"]["chars"][index]["currentEquip"] = saved_character["currentEquip"]
 
     secretary = config["userConfig"]["secretary"]
     secretarySkinId = config["userConfig"]["secretarySkinId"]
@@ -557,11 +588,13 @@ def accountSyncData():
     player_data["user"]["tower"]["season"]["id"] = season
 
     story_review_table = updateData(STORY_REVIEW_TABLE_URL)
+    story_review_meta_table = updateData(STORY_REVIEW_META_TABLE_URL)
     story_review_groups = {}
     for i in story_review_table:
         story_review_groups[i] = {
-            "rts": -1,
-            "stories": []
+            "rts": 1700000000,
+            "stories": [],
+            "trailRewards": []
         }
         for j in story_review_table[i]["infoUnlockDatas"]:
             story_review_groups[i]["stories"].append(
@@ -571,6 +604,11 @@ def accountSyncData():
                     "rc": 1
                 }
             )
+        if i in story_review_meta_table["miniActTrialData"]["miniActTrialDataMap"]:
+            for j in story_review_meta_table["miniActTrialData"]["miniActTrialDataMap"][i]["rewardList"]:
+                story_review_groups[i]["trailRewards"].append(
+                    j["trialRewardId"]
+                )
     player_data["user"]["storyreview"]["groups"] = story_review_groups
 
     enemy_handbook_table = updateData(ENEMY_HANDBOOK_TABLE_URL)
@@ -603,10 +641,41 @@ def accountSyncData():
 
     rlv2_table = updateData(RL_TABLE_URL)
     for theme in player_data["user"]["rlv2"]["outer"]:
-        player_data["user"]["rlv2"]["outer"][theme]["record"]["stageCnt"] = {i:1 for i in rlv2_table["details"][theme]["stages"]}
+        if theme in rlv2_table["details"]:
+            player_data["user"]["rlv2"]["outer"][theme]["record"]["stageCnt"] = {i:1 for i in rlv2_table["details"][theme]["stages"]}
+
+    if config["userConfig"]["simulateGacha"]:
+        for i in player_data["user"]["recruit"]["normal"]["slots"]:
+            player_data["user"]["recruit"]["normal"]["slots"][i]["tags"] = getTags()
+    else:
+        gacha = read_json(GACHA_JSON_PATH)
+        for i in player_data["user"]["recruit"]["normal"]["slots"]:
+            player_data["user"]["recruit"]["normal"]["slots"][i]["tags"] = gacha["normal"]["tags"]
+    
+    sandbox = read_json(SANDBOX_JSON_PATH)
+    player_data["user"]["sandboxPerm"]["template"]["SANDBOX_V2"]["sandbox_1"].update(sandbox["template"]["SANDBOX_V2"]["sandbox_1"])
+
+    write_json({}, GACHA_TEMP_JSON_PATH)
+
+    if config["userConfig"]["restorePreviousStates"]["is2"]:
+        rlv2 = read_json(RLV2_JSON_PATH)
+        rlv2_static = read_json(RLV2_STATIC_JSON_PATH)
+        for i in rlv2_static:
+            for j in rlv2_static[i]:
+                rlv2[i][j].update(rlv2_static[i][j])
+        player_data["user"]["rlv2"]["current"] = rlv2
+
+    selected_crisis = config["crisisV2Config"]["selectedCrisis"]
+    if selected_crisis:
+        rune = read_json(
+            f"{CRISIS_V2_JSON_BASE_PATH}{selected_crisis}.json", encoding="utf-8"
+        )
+        season = rune["info"]["seasonId"]
+        player_data["user"]["crisisV2"]["current"] = season
 
     write_json(player_data, USER_JSON_PATH)
 
+    # must after write_json(player_data, USER_JSON_PATH)
     building = buildingSync()
     player_data["user"]["building"] = building["playerDataDelta"]["modified"]["building"]
 

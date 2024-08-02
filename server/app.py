@@ -9,7 +9,7 @@ from constants import CONFIG_PATH
 
 import account, background, building, campaignV2, char, charBuild, charm, \
         crisis, deepsea, mail, online, tower, quest, pay, rlv2, shop, story, \
-        user, asset.assetbundle, config.prod
+        user, asset.assetbundle, config.prod, sandbox, gacha
 
 server_config = read_json(CONFIG_PATH)
 
@@ -19,7 +19,7 @@ port = server_config["server"]["port"]
 
 logger = logging.getLogger('werkzeug')
 logger.setLevel(logging.INFO)
-logger.addFilter(lambda s: not re.match(".*404 -*", s.getMessage()))
+# logger.addFilter(lambda s: not re.match(".*404 -*", s.getMessage()))
 
 app.add_url_rule('/app/getSettings', methods=['POST'], view_func=user.appGetSettings)
 app.add_url_rule('/app/getCode', methods=['POST'], view_func=user.appGetCode)
@@ -77,6 +77,8 @@ app.add_url_rule('/crisisV2/getInfo', methods=['POST'], view_func=crisis.crisisV
 app.add_url_rule('/crisisV2/battleStart', methods=['POST'], view_func=crisis.crisisV2_battleStart)
 app.add_url_rule('/crisisV2/battleFinish', methods=['POST'], view_func=crisis.crisisV2_battleFinish)
 
+app.add_url_rule('/crisisV2/getSnapshot', methods=['POST'], view_func=crisis.crisisV2_getSnapshot)
+
 app.add_url_rule('/deepSea/branch', methods=['POST'], view_func=deepsea.deepSeaBranch)
 app.add_url_rule('/deepSea/event', methods=['POST'], view_func=deepsea.deepSeaEvent)
 
@@ -120,6 +122,8 @@ app.add_url_rule('/act25side/battleFinish', methods=['POST'], view_func=quest.qu
 
 app.add_url_rule('/car/confirmBattleCar', methods=['POST'], view_func=quest.confirmBattleCar)
 
+app.add_url_rule('/templateTrap/setTrapSquad', methods=['POST'], view_func=quest.setTrapSquad)
+
 app.add_url_rule('/activity/act24side/battleStart', methods=['POST'], view_func=quest.questBattleStart)
 app.add_url_rule('/activity/act24side/battleFinish', methods=['POST'], view_func=quest.questBattleFinish)
 
@@ -127,6 +131,16 @@ app.add_url_rule('/activity/act24side/setTool', methods=['POST'], view_func=ques
 
 app.add_url_rule('/activity/bossRush/battleStart', methods=['POST'], view_func=quest.questBattleStart)
 app.add_url_rule('/activity/bossRush/battleFinish', methods=['POST'], view_func=quest.questBattleFinish)
+
+app.add_url_rule('/aprilFool/act5fun/battleStart', methods=['POST'], view_func=quest.questBattleStart)
+app.add_url_rule('/aprilFool/act5fun/battleFinish', methods=['POST'], view_func=quest.act5fun_questBattleFinish)
+
+app.add_url_rule('/aprilFool/act4fun/battleStart', methods=['POST'], view_func=quest.questBattleStart)
+app.add_url_rule('/aprilFool/act4fun/battleFinish', methods=['POST'], view_func=quest.act4fun_questBattleFinish)
+app.add_url_rule('/aprilFool/act4fun/liveSettle', methods=['POST'], view_func=quest.act4fun_liveSettle)
+
+app.add_url_rule('/aprilFool/act3fun/battleStart', methods=['POST'], view_func=quest.questBattleStart)
+app.add_url_rule('/aprilFool/act3fun/battleFinish', methods=['POST'], view_func=quest.questBattleFinish)
 
 app.add_url_rule('/activity/bossRush/relicSelect', methods=['POST'], view_func=quest.relicSelect)
 
@@ -146,7 +160,7 @@ app.add_url_rule('/rlv2/moveAndBattleStart', methods=['POST'], view_func=rlv2.rl
 app.add_url_rule('/rlv2/battleFinish', methods=['POST'], view_func=rlv2.rlv2BattleFinish)
 app.add_url_rule('/rlv2/finishBattleReward', methods=['POST'], view_func=rlv2.rlv2FinishBattleReward)
 app.add_url_rule('/rlv2/moveTo', methods=['POST'], view_func=rlv2.rlv2MoveTo)
-app.add_url_rule('/rlv2/buyGoods', methods=['POST'], view_func=rlv2.rlv2BuyGoods)
+app.add_url_rule('/rlv2/shopAction', methods=['POST'], view_func=rlv2.rlv2shopAction)
 app.add_url_rule('/rlv2/leaveShop', methods=['POST'], view_func=rlv2.rlv2LeaveShop)
 app.add_url_rule('/rlv2/chooseBattleReward', methods=['POST'], view_func=rlv2.rlv2ChooseBattleReward)
 
@@ -173,6 +187,34 @@ app.add_url_rule('/social/setAssistCharList', methods=['POST'], view_func=user.s
 app.add_url_rule('/social/setCardShowMedal', methods=['POST'], view_func=user.social_setCardShowMedal)
 app.add_url_rule('/medal/setCustomData', methods=['POST'], view_func=user.medal_setCustomData)
 
+app.add_url_rule('/businessCard/changeNameCardComponent', methods=['POST'], view_func=user.businessCard_changeNameCardComponent)
+app.add_url_rule('/businessCard/changeNameCardSkin', methods=['POST'], view_func=user.businessCard_changeNameCardSkin)
+
+app.add_url_rule('/sandboxPerm/sandboxV2/createGame', methods=['POST'], view_func=sandbox.createGame)
+app.add_url_rule('/sandboxPerm/sandboxV2/battleStart', methods=['POST'], view_func=sandbox.battleStart)
+app.add_url_rule('/sandboxPerm/sandboxV2/battleFinish', methods=['POST'], view_func=sandbox.battleFinish)
+app.add_url_rule('/sandboxPerm/sandboxV2/setSquad', methods=['POST'], view_func=sandbox.setSquad)
+app.add_url_rule('/sandboxPerm/sandboxV2/homeBuildSave', methods=['POST'], view_func=sandbox.homeBuildSave)
+app.add_url_rule('/sandboxPerm/sandboxV2/settleGame', methods=['POST'], view_func=sandbox.settleGame)
+app.add_url_rule('/sandboxPerm/sandboxV2/eatFood', methods=['POST'], view_func=sandbox.eatFood)
+
+app.add_url_rule('/sandboxPerm/sandboxV2/monthBattleStart', methods=['POST'], view_func=sandbox.monthBattleStart)
+app.add_url_rule('/sandboxPerm/sandboxV2/monthBattleFinish', methods=['POST'], view_func=sandbox.monthBattleFinish)
+
+app.add_url_rule('/sandboxPerm/sandboxV2/exploreMode', methods=['POST'], view_func=sandbox.exploreMode)
+
+app.add_url_rule('/gacha/normalGacha', methods=['POST'], view_func=gacha.normalGacha)
+app.add_url_rule('/gacha/boostNormalGacha', methods=['POST'], view_func=gacha.boostNormalGacha)
+app.add_url_rule('/gacha/finishNormalGacha', methods=['POST'], view_func=gacha.finishNormalGacha)
+app.add_url_rule('/gacha/syncNormalGacha', methods=['POST'], view_func=gacha.syncNormalGacha)
+
+app.add_url_rule('/gacha/refreshTags', methods=['POST'], view_func=gacha.refreshTags)
+
+app.add_url_rule('/gacha/advancedGacha', methods=['POST'], view_func=gacha.advancedGacha)
+app.add_url_rule('/gacha/tenAdvancedGacha', methods=['POST'], view_func=gacha.tenAdvancedGacha)
+
+app.add_url_rule('/gacha/getPoolDetail', methods=['POST'], view_func=gacha.getPoolDetail)
+
 app.add_url_rule(
     '/user/auth/v1/token_by_phone_password',
     methods=['POST'], view_func=user.auth_v1_token_by_phone_password
@@ -194,9 +236,14 @@ app.add_url_rule(
     methods=['GET'], view_func=user.general_v1_server_time
 )
 
+app.add_url_rule(
+    '/u8/user/auth/v1/agreement_version',
+    methods=['GET'], view_func=user.agreement_version
+)
+
 
 def writeLog(data):
-    print(f'[{datetime.utcnow()}] {data}')
+    print(f'[{datetime.now()}] {data}')
 
 if __name__ == "__main__":
     writeLog('[SERVER] Server started at http://' + host + ":" + str(port))
