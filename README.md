@@ -8,31 +8,14 @@ Discord: [https://discord.com/invite/SmuB88RR5W](https://discord.com/invite/SmuB
 
 ## Currently tested emulator to be working
 
-1. MuMu Player X (aka MuMu Player 12) (**recommended**)
-
-2. LDPlayer9 (usable, but **NOT** recommended)
+1. MuMu Player 6 (MuMu Player 12 is no longer supported, sad) 
 
 ## How To
 
-### MuMu Player X (aka MuMu Player 12)
+### MuMu Player 6
 
-[https://www.mumuglobal.com/faq/system-requirement-mumu-player-x.html](https://www.mumuglobal.com/faq/system-requirement-mumu-player-x.html)
-
-[https://a11.gdl.netease.com/MuMuInstaller_12.0.0.6_12beta-gw-offline_all_1666787400.exe](https://a11.gdl.netease.com/MuMuInstaller_12.0.0.6_12beta-gw-offline_all_1666787400.exe)
-
-1. Enable root permission in MuMu Player's settings (adb connection should be enabled by default, therefore no need to enable it manually).
-2. Start MuMu Player X (aka MuMu Player 12).
-3. Run `setup_requirements.bat`, and success can be indicated from `"Press enter to exit..."`.
-4. Run `start_local_server.bat`, and the window should stay open if no error occurs.
-5. Run `start_frida-server.bat`, and the window should stay open if no error occurs.
-6. Run `start_frida-hook.bat`. It should automatically open up the game. The window should stay open if no error occurs.
-
-### LDPlayer9
-
-[https://ldcdn.ldmnq.com/download/package/LDPlayer9.0.exe](https://ldcdn.ldmnq.com/download/package/LDPlayer9.0.exe)
-
-1. Enable root permission and adb connection in LDPlayer9's settings.
-2. Start LDPlayer9.
+1. Enable root permission and adb connection in MuMu Player's settings.
+2. Start MuMu Player 6.
 3. Run `setup_requirements.bat`, and success can be indicated from `"Press enter to exit..."`.
 4. Run `start_local_server.bat`, and the window should stay open if no error occurs.
 5. Run `start_frida-server.bat`, and the window should stay open if no error occurs.
