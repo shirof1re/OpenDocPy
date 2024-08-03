@@ -1,0 +1,5346 @@
+{
+    "LINKAGE_48_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_4123_ela"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4125_rdoc",
+                "char_4124_iana"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "LIMITED_47_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_2025_shu",
+                "char_4121_zuole"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4122_grabds"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "LIMITED_44_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_245_cello",
+                "char_4098_vvana"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4109_baslin"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "LIMITED_41_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_1016_agoat2",
+                "char_1033_swire2"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_488_buildr"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "LIMITED_38_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_249_mlyss",
+                "char_4027_heyak"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4006_melnte"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "LINKAGE_36_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_1029_yato2"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_1030_noirc2"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "LIMITED_35_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_2024_chyue",
+                "char_4080_lin"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_493_firwhl"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "LIMITED_33_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_1028_texas2",
+                "char_4065_judge"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4014_lunacu"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "LIMITED_30_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_1026_gvial2",
+                "char_4055_bgsnow"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_497_ctable"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "LIMITED_27_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_1023_ghost2",
+                "char_4009_irene"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_433_windft"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "LIMITED_25_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_2023_ling",
+                "char_322_lmlee"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_476_blkngt"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "LIMITED_23_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_1014_nearl2",
+                "char_420_flamtl"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_489_serum"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "LIMITED_21_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_1013_chen2",
+                "char_437_mizuki"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_421_crow"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "LIMITED_18_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_1012_skadi2",
+                "char_003_kalts"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_475_akafyu"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "LINKAGE_17_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_456_ash"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_458_rfrost",
+                "char_457_blitz"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "LIMITED_16_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_2015_dusk",
+                "char_362_saga"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_455_nothin"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "LIMITED_16_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_2014_nian",
+                "char_225_haak"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_226_hmau"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "LIMITED_14_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_391_rosmon",
+                "char_311_mudrok"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_436_whispr"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_347_jaksel"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "LIMITED_9_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_113_cqbw",
+                "char_400_weedy"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_401_elysm"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_6_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_2014_nian",
+                "char_225_haak"
+            ],
+            "percent": 0.35,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_226_hmau"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "SINGLE_45_0_7": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_4117_ray"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_473_mberry",
+                "char_4081_warmy"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "SINGLE_45_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_1020_reed2"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_1027_greyy2",
+                "char_297_hamoni"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "SINGLE_45_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_4116_blkkgt"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_194_leto",
+                "char_343_tknogi"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "SINGLE_43_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_4088_hodrer"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_494_vendla",
+                "char_492_quercu"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_4107_vrdant"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_42_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_4039_horn",
+                "char_4072_ironmn",
+                "char_4087_ines"
+            ],
+            "percent": 0.3333333333333333,
+            "count": 3
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4040_rockr",
+                "char_4071_peper",
+                "char_464_cement"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_4041_chnut",
+                "char_4062_totter",
+                "char_491_humus"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "SINGLE_42_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_1034_jesca2"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4105_almond",
+                "char_346_aosta"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "SINGLE_40_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_4048_doroth"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4040_rockr",
+                "char_1027_greyy2"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "SINGLE_40_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_2012_typhon"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_341_sntlla",
+                "char_344_beewax"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "SINGLE_39_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_4046_ebnhlz"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_1024_hbisc2",
+                "char_4014_lunacu"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "SINGLE_39_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_1032_excu2"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4015_spuria",
+                "char_497_ctable"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "SINGLE_37_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_4087_ines"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_464_cement",
+                "char_433_windft"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_491_humus"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_36_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_479_sleach",
+                "char_4039_horn",
+                "char_4072_ironmn"
+            ],
+            "percent": 0.3333333333333333,
+            "count": 3
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_473_mberry",
+                "char_4040_rockr",
+                "char_4071_peper"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_484_robrta",
+                "char_4041_chnut",
+                "char_4062_totter"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_35_0_6": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_300_phenxi"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4016_kazema",
+                "char_279_excu"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_35_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_4082_qiubai"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4083_chimes",
+                "char_226_hmau"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_34_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_1020_reed2"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_297_hamoni",
+                "char_166_skfire"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_33_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_206_gnosis"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_422_aurora",
+                "char_174_slbell"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_32_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_4072_ironmn"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4071_peper",
+                "char_173_slchan"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_4062_totter"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_32_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_311_mudrok",
+                "char_479_sleach",
+                "char_4039_horn"
+            ],
+            "percent": 0.3333333333333333,
+            "count": 3
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_436_whispr",
+                "char_473_mberry",
+                "char_4040_rockr"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_347_jaksel",
+                "char_484_robrta",
+                "char_4041_chnut"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_31_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_4064_mlynar"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4032_provs",
+                "char_106_franka"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_29_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_4048_doroth"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_1027_greyy2",
+                "char_128_plosis"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_28_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_4046_ebnhlz"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_1024_hbisc2",
+                "char_129_bluep"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_27_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_4039_horn"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4040_rockr",
+                "char_171_bldsk"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_4041_chnut"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_26_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_472_pasngr"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_363_toddi",
+                "char_379_sesa"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_26_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_300_phenxi"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4016_kazema",
+                "char_279_excu"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_25_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_377_gdglow"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_492_quercu",
+                "char_166_skfire"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_24_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_206_gnosis"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_422_aurora",
+                "char_174_slbell"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_23_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_264_f12yin"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_214_kafka",
+                "char_108_silent"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_440_pinecn"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_22_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_430_fartth"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_431_ashlok",
+                "char_215_mantic"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_22_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_423_blemsh"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_346_aosta",
+                "char_204_platnm"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_381_bubble"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_22_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_479_sleach"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_473_mberry",
+                "char_107_liskam"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_484_robrta"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_21_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_293_thorns"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_218_cuttle",
+                "char_145_prove"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_272_strong"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_20_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_416_zumama"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_415_flint",
+                "char_219_meteo"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_366_acdrop"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_20_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_485_pallas"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_143_ghost",
+                "char_144_red"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_19_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_358_lisa"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_294_ayer",
+                "char_164_nightm"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_328_cammou"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_19_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_426_billro"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_478_kirara",
+                "char_173_slchan"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_469_indigo"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_18_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_472_pasngr"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_363_toddi",
+                "char_379_sesa"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_17_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_250_phatom"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_254_vodfox",
+                "char_128_plosis"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_301_cutter"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_15_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_332_archet"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_338_iris",
+                "char_349_chiave"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_452_bstalk"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_15_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_264_f12yin"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_214_kafka",
+                "char_108_silent"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_440_pinecn"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_14_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_213_mostma"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_243_waaifu",
+                "char_158_milu"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_133_mm"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_13_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_423_blemsh"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_346_aosta",
+                "char_204_platnm"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_381_bubble"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_13_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_263_skadi"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_164_nightm",
+                "char_148_nearl"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_137_brownb",
+                "char_236_rope"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_13_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_350_surtr"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_365_aprl",
+                "char_401_elysm"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_271_spikes"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_12_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_293_thorns"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_218_cuttle",
+                "char_145_prove"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_272_strong"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_12_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_416_zumama"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_415_flint",
+                "char_219_meteo"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_366_acdrop"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_12_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_416_zumama"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_415_flint",
+                "char_219_meteo"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_366_acdrop"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_11_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_293_thorns"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_218_cuttle",
+                "char_145_prove"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_272_strong"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_11_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_358_lisa"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_294_ayer",
+                "char_164_nightm"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_328_cammou"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_10_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_197_poca"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_373_lionhd",
+                "char_195_glassb"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_258_podego"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_9_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_250_phatom"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_254_vodfox",
+                "char_128_plosis"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_301_cutter"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_8_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_222_bpipe"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_379_sesa",
+                "char_115_headbr"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_337_utage"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_7_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_2013_cerber"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_140_whitew",
+                "char_306_leizi"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_6_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_017_huang"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_367_swllow",
+                "char_166_skfire"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_302_glaze"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_5_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_103_angel"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_356_broca",
+                "char_261_sddrag"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_5_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_213_mostma"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_243_waaifu",
+                "char_158_milu"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_133_mm"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_4_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_248_mgllan"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_279_excu",
+                "char_108_silent"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_190_clour"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_3_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_180_amgoat"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_145_prove",
+                "char_143_ghost"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_3_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_188_helage"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_274_astesi",
+                "char_201_moeshd"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_151_myrtle"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_3_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_340_shwaz"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_326_glacus",
+                "char_129_bluep"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_298_susuro"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_2_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_136_hsguma"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_107_liskam",
+                "char_219_meteo"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_2_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_010_chen"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_308_swire",
+                "char_241_panda"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_253_greyy"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_1_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_263_skadi"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_164_nightm",
+                "char_148_nearl"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_137_brownb",
+                "char_236_rope"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_0_1_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_172_svrash"
+            ],
+            "percent": 0.5,
+            "count": 1
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_174_slbell",
+                "char_173_slchan"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 3,
+            "charIdList": [
+                "char_199_yak"
+            ],
+            "percent": 0.5,
+            "count": 1
+        }
+    ],
+    "NORM_47_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_264_f12yin",
+                "char_4064_mlynar",
+                "char_4082_qiubai",
+                "char_1033_swire2"
+            ],
+            "percent": 0.25,
+            "count": 4
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_344_beewax",
+                "char_218_cuttle",
+                "char_436_whispr",
+                "char_363_toddi",
+                "char_478_kirara",
+                "char_493_firwhl"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 6
+        }
+    ],
+    "NORM_44_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_350_surtr",
+                "char_437_mizuki",
+                "char_4055_bgsnow",
+                "char_358_lisa"
+            ],
+            "percent": 0.25,
+            "count": 4
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4083_chimes",
+                "char_1024_hbisc2",
+                "char_349_chiave",
+                "char_338_iris",
+                "char_214_kafka",
+                "char_378_asbest"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 6
+        }
+    ],
+    "NORM_41_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_322_lmlee",
+                "char_4065_judge",
+                "char_4064_mlynar",
+                "char_4055_bgsnow"
+            ],
+            "percent": 0.25,
+            "count": 4
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_436_whispr",
+                "char_475_akafyu",
+                "char_422_aurora",
+                "char_297_hamoni",
+                "char_464_cement",
+                "char_4006_melnte"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 6
+        }
+    ],
+    "NORM_38_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_362_saga",
+                "char_264_f12yin",
+                "char_377_gdglow",
+                "char_311_mudrok"
+            ],
+            "percent": 0.25,
+            "count": 4
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4032_provs",
+                "char_493_firwhl",
+                "char_431_ashlok",
+                "char_478_kirara",
+                "char_346_aosta",
+                "char_214_kafka"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 6
+        }
+    ],
+    "NORM_36_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_4009_irene",
+                "char_322_lmlee",
+                "char_4048_doroth",
+                "char_293_thorns"
+            ],
+            "percent": 0.25,
+            "count": 4
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_195_glassb",
+                "char_476_blkngt",
+                "char_218_cuttle",
+                "char_415_flint",
+                "char_492_quercu",
+                "char_164_nightm"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 6
+        }
+    ],
+    "NORM_33_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_416_zumama",
+                "char_430_fartth",
+                "char_358_lisa",
+                "char_377_gdglow"
+            ],
+            "percent": 0.25,
+            "count": 4
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_379_sesa",
+                "char_489_serum",
+                "char_4016_kazema",
+                "char_101_sora",
+                "char_431_ashlok",
+                "char_294_ayer"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 6
+        }
+    ],
+    "NORM_30_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_222_bpipe",
+                "char_426_billro",
+                "char_248_mgllan",
+                "char_472_pasngr"
+            ],
+            "percent": 0.25,
+            "count": 4
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_455_nothin",
+                "char_254_vodfox",
+                "char_363_toddi",
+                "char_473_mberry",
+                "char_421_crow",
+                "char_166_skfire"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 6
+        }
+    ],
+    "NORM_27_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_103_angel",
+                "char_263_skadi",
+                "char_264_f12yin",
+                "char_003_kalts"
+            ],
+            "percent": 0.25,
+            "count": 4
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_140_whitew",
+                "char_107_liskam",
+                "char_145_prove",
+                "char_241_panda",
+                "char_343_tknogi",
+                "char_475_akafyu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 6
+        }
+    ],
+    "NORM_23_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_362_saga",
+                "char_340_shwaz",
+                "char_250_phatom",
+                "char_350_surtr"
+            ],
+            "percent": 0.25,
+            "count": 4
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_219_meteo",
+                "char_294_ayer",
+                "char_344_beewax",
+                "char_415_flint",
+                "char_365_aprl",
+                "char_338_iris"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 6
+        }
+    ],
+    "NORM_18_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_293_thorns",
+                "char_179_cgbird",
+                "char_358_lisa",
+                "char_400_weedy"
+            ],
+            "percent": 0.25,
+            "count": 4
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_148_nearl",
+                "char_218_cuttle",
+                "char_108_silent",
+                "char_106_franka",
+                "char_401_elysm",
+                "char_373_lionhd"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 6
+        }
+    ],
+    "NORM_14_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_225_haak",
+                "char_136_hsguma",
+                "char_2013_cerber",
+                "char_222_bpipe"
+            ],
+            "percent": 0.25,
+            "count": 4
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_356_broca",
+                "char_378_asbest",
+                "char_129_bluep",
+                "char_171_bldsk",
+                "char_195_glassb",
+                "char_274_astesi"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 6
+        }
+    ],
+    "NORM_9_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_017_huang",
+                "char_202_demkni",
+                "char_213_mostma",
+                "char_188_helage"
+            ],
+            "percent": 0.25,
+            "count": 4
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_148_nearl",
+                "char_158_milu",
+                "char_367_swllow",
+                "char_226_hmau",
+                "char_279_excu",
+                "char_326_glacus"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 6
+        }
+    ],
+    "NORM_4_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_010_chen",
+                "char_172_svrash",
+                "char_180_amgoat",
+                "char_291_aglina"
+            ],
+            "percent": 0.25,
+            "count": 4
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_128_plosis",
+                "char_102_texas",
+                "char_204_platnm",
+                "char_201_moeshd",
+                "char_215_mantic",
+                "char_308_swire"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 6
+        }
+    ],
+    "NORM_47_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_300_phenxi",
+                "char_332_archet"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_4016_kazema",
+                "char_464_cement",
+                "char_4071_peper"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_47_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_358_lisa",
+                "char_362_saga"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_346_aosta",
+                "char_297_hamoni",
+                "char_4105_almond"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_45_0_9": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_416_zumama",
+                "char_4080_lin"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_492_quercu",
+                "char_365_aprl",
+                "char_4032_provs"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_45_0_8": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_377_gdglow",
+                "char_479_sleach"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_455_nothin",
+                "char_497_ctable",
+                "char_488_buildr"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_45_0_6": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_423_blemsh",
+                "char_293_thorns"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_476_blkngt",
+                "char_433_windft",
+                "char_4006_melnte"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_45_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_322_lmlee",
+                "char_2012_typhon"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_415_flint",
+                "char_475_akafyu",
+                "char_341_sntlla"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_45_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_400_weedy",
+                "char_4065_judge"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_294_ayer",
+                "char_373_lionhd",
+                "char_4014_lunacu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_44_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_206_gnosis",
+                "char_197_poca"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_489_serum",
+                "char_4016_kazema",
+                "char_4015_spuria"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_44_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_472_pasngr",
+                "char_4046_ebnhlz"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_401_elysm",
+                "char_421_crow",
+                "char_431_ashlok"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_43_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_003_kalts",
+                "char_4027_heyak"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_422_aurora",
+                "char_218_cuttle",
+                "char_497_ctable"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_43_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_420_flamtl",
+                "char_300_phenxi"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_344_beewax",
+                "char_436_whispr",
+                "char_4032_provs"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_42_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_311_mudrok",
+                "char_1032_excu2"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_478_kirara",
+                "char_363_toddi",
+                "char_493_firwhl"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_42_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_362_saga",
+                "char_485_pallas"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_431_ashlok",
+                "char_294_ayer",
+                "char_415_flint"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_41_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_430_fartth",
+                "char_4082_qiubai"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_365_aprl",
+                "char_455_nothin",
+                "char_433_windft"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_41_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_264_f12yin",
+                "char_4009_irene"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_473_mberry",
+                "char_4014_lunacu",
+                "char_214_kafka"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_41_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_332_archet",
+                "char_206_gnosis"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_343_tknogi",
+                "char_378_asbest",
+                "char_373_lionhd"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_40_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_479_sleach",
+                "char_377_gdglow"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_421_crow",
+                "char_4016_kazema",
+                "char_492_quercu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_39_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_197_poca",
+                "char_4080_lin"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_436_whispr",
+                "char_338_iris",
+                "char_349_chiave"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_39_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_293_thorns",
+                "char_300_phenxi"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_218_cuttle",
+                "char_476_blkngt",
+                "char_401_elysm"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_38_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_437_mizuki",
+                "char_420_flamtl"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_475_akafyu",
+                "char_4083_chimes",
+                "char_1027_greyy2"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_38_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_472_pasngr",
+                "char_430_fartth"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_363_toddi",
+                "char_489_serum",
+                "char_344_beewax"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_38_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_350_surtr",
+                "char_1020_reed2"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_436_whispr",
+                "char_294_ayer",
+                "char_497_ctable"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_37_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_485_pallas",
+                "char_4065_judge"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_455_nothin",
+                "char_343_tknogi",
+                "char_422_aurora"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_37_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_358_lisa",
+                "char_4055_bgsnow"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_373_lionhd",
+                "char_365_aprl",
+                "char_421_crow"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_36_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_416_zumama",
+                "char_332_archet"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_378_asbest",
+                "char_475_akafyu",
+                "char_297_hamoni"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_36_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_426_billro",
+                "char_197_poca"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_349_chiave",
+                "char_344_beewax",
+                "char_4014_lunacu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_35_0_7": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_423_blemsh",
+                "char_340_shwaz"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_338_iris",
+                "char_4032_provs",
+                "char_4071_peper"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_35_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_213_mostma",
+                "char_112_siege"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_144_red",
+                "char_128_plosis",
+                "char_497_ctable"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_35_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_003_kalts",
+                "char_4064_mlynar"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_401_elysm",
+                "char_143_ghost",
+                "char_171_bldsk"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_35_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_2013_cerber",
+                "char_479_sleach"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_204_platnm",
+                "char_115_headbr",
+                "char_129_bluep"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_34_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_400_weedy",
+                "char_202_demkni"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_436_whispr",
+                "char_242_otter",
+                "char_107_liskam"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_34_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_103_angel",
+                "char_134_ifrit"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_306_leizi",
+                "char_1024_hbisc2",
+                "char_1027_greyy2"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_33_0_6": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_472_pasngr",
+                "char_4046_ebnhlz"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_326_glacus",
+                "char_261_sddrag",
+                "char_455_nothin"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_33_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_250_phatom",
+                "char_420_flamtl"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_226_hmau",
+                "char_108_silent",
+                "char_158_milu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_33_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_179_cgbird",
+                "char_485_pallas"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_346_aosta",
+                "char_349_chiave",
+                "char_367_swllow"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_32_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_362_saga",
+                "char_293_thorns"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_274_astesi",
+                "char_243_waaifu",
+                "char_433_windft"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_32_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_147_shining",
+                "char_136_hsguma"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_214_kafka",
+                "char_171_bldsk",
+                "char_373_lionhd"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_32_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_332_archet",
+                "char_4009_irene"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_140_whitew",
+                "char_308_swire",
+                "char_174_slbell"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_31_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_180_amgoat",
+                "char_437_mizuki"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_215_mantic",
+                "char_201_moeshd",
+                "char_279_excu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_30_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_263_skadi",
+                "char_197_poca"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_143_ghost",
+                "char_4040_rockr",
+                "char_478_kirara"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_30_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_264_f12yin",
+                "char_300_phenxi"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_365_aprl",
+                "char_261_sddrag",
+                "char_343_tknogi"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_29_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_291_aglina",
+                "char_400_weedy"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_102_texas",
+                "char_148_nearl",
+                "char_492_quercu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_29_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_017_huang",
+                "char_202_demkni"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_415_flint",
+                "char_204_platnm",
+                "char_164_nightm"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_29_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_311_mudrok",
+                "char_377_gdglow"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_219_meteo",
+                "char_378_asbest",
+                "char_476_blkngt"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_28_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_172_svrash",
+                "char_426_billro"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_115_headbr",
+                "char_144_red",
+                "char_195_glassb"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_27_0_7": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_188_helage",
+                "char_322_lmlee"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_218_cuttle",
+                "char_346_aosta",
+                "char_478_kirara"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_27_0_6": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_423_blemsh",
+                "char_362_saga"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_356_broca",
+                "char_338_iris",
+                "char_422_aurora"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_27_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_340_shwaz",
+                "char_206_gnosis"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_201_moeshd",
+                "char_108_silent",
+                "char_242_otter"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_27_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_112_siege",
+                "char_332_archet"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_349_chiave",
+                "char_489_serum",
+                "char_158_milu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_26_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_350_surtr",
+                "char_248_mgllan"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_101_sora",
+                "char_401_elysm",
+                "char_306_leizi"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_26_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_010_chen",
+                "char_420_flamtl"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_344_beewax",
+                "char_436_whispr",
+                "char_431_ashlok"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_26_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_134_ifrit",
+                "char_430_fartth"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_173_slchan",
+                "char_326_glacus",
+                "char_254_vodfox"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_25_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_416_zumama",
+                "char_311_mudrok"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_294_ayer",
+                "char_473_mberry",
+                "char_243_waaifu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_25_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_225_haak",
+                "char_479_sleach"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_145_prove",
+                "char_421_crow",
+                "char_226_hmau"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_25_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_2013_cerber",
+                "char_437_mizuki"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_373_lionhd",
+                "char_475_akafyu",
+                "char_218_cuttle"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_24_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_293_thorns",
+                "char_180_amgoat"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_308_swire",
+                "char_455_nothin",
+                "char_107_liskam"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_24_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_222_bpipe",
+                "char_017_huang"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_261_sddrag",
+                "char_143_ghost",
+                "char_241_panda"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_24_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_213_mostma",
+                "char_172_svrash"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_343_tknogi",
+                "char_367_swllow",
+                "char_274_astesi"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_23_0_6": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_358_lisa",
+                "char_485_pallas"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_148_nearl",
+                "char_106_franka",
+                "char_164_nightm"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_23_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_179_cgbird",
+                "char_188_helage"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_378_asbest",
+                "char_195_glassb",
+                "char_171_bldsk"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_23_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_136_hsguma",
+                "char_426_billro"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_129_bluep",
+                "char_478_kirara",
+                "char_243_waaifu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_22_0_6": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_197_poca",
+                "char_010_chen"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_401_elysm",
+                "char_356_broca",
+                "char_201_moeshd"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_22_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_263_skadi",
+                "char_134_ifrit"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_128_plosis",
+                "char_475_akafyu",
+                "char_373_lionhd"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_22_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_103_angel",
+                "char_003_kalts"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_254_vodfox",
+                "char_306_leizi",
+                "char_279_excu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_21_0_6": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_400_weedy",
+                "char_332_archet"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_326_glacus",
+                "char_140_whitew",
+                "char_101_sora"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_21_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_248_mgllan",
+                "char_2013_cerber"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_379_sesa",
+                "char_436_whispr",
+                "char_363_toddi"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_21_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_147_shining",
+                "char_472_pasngr"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_158_milu",
+                "char_214_kafka",
+                "char_166_skfire"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_21_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_250_phatom",
+                "char_311_mudrok"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_226_hmau",
+                "char_261_sddrag",
+                "char_349_chiave"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_20_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_291_aglina",
+                "char_197_poca"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_242_otter",
+                "char_145_prove",
+                "char_455_nothin"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_20_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_202_demkni",
+                "char_362_saga"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_367_swllow",
+                "char_241_panda",
+                "char_365_aprl"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_19_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_222_bpipe",
+                "char_332_archet"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_174_slbell",
+                "char_343_tknogi",
+                "char_344_beewax"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_19_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_112_siege",
+                "char_213_mostma"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_274_astesi",
+                "char_308_swire",
+                "char_338_iris"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_18_0_6": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_180_amgoat",
+                "char_350_surtr"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_243_waaifu",
+                "char_115_headbr",
+                "char_171_bldsk"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_18_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_225_haak",
+                "char_416_zumama"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_195_glassb",
+                "char_128_plosis",
+                "char_129_bluep"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_18_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_017_huang",
+                "char_264_f12yin"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_356_broca",
+                "char_415_flint",
+                "char_378_asbest"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_17_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_188_helage",
+                "char_311_mudrok"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_279_excu",
+                "char_214_kafka",
+                "char_367_swllow"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_17_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_136_hsguma",
+                "char_423_blemsh"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_115_headbr",
+                "char_215_mantic",
+                "char_326_glacus"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_17_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_2013_cerber",
+                "char_291_aglina"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_140_whitew",
+                "char_145_prove",
+                "char_436_whispr"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_16_0_6": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_340_shwaz",
+                "char_350_surtr"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_107_liskam",
+                "char_173_slchan",
+                "char_346_aosta"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_16_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_134_ifrit",
+                "char_416_zumama"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_306_leizi",
+                "char_143_ghost",
+                "char_241_panda"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_16_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_213_mostma",
+                "char_293_thorns"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_101_sora",
+                "char_242_otter",
+                "char_365_aprl"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_16_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_010_chen",
+                "char_112_siege"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_201_moeshd",
+                "char_148_nearl",
+                "char_415_flint"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_15_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_172_svrash",
+                "char_147_shining"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_166_skfire",
+                "char_218_cuttle",
+                "char_344_beewax"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_15_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_263_skadi",
+                "char_202_demkni"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_106_franka",
+                "char_204_platnm",
+                "char_401_elysm"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_14_0_6": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_017_huang",
+                "char_358_lisa"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_261_sddrag",
+                "char_373_lionhd",
+                "char_379_sesa"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_14_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_103_angel",
+                "char_291_aglina"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_174_slbell",
+                "char_102_texas",
+                "char_294_ayer"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_14_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_179_cgbird",
+                "char_197_poca"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_144_red",
+                "char_128_plosis",
+                "char_343_tknogi"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_13_0_6": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_248_mgllan",
+                "char_180_amgoat"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_367_swllow",
+                "char_308_swire",
+                "char_226_hmau"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_13_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_112_siege",
+                "char_250_phatom"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_326_glacus",
+                "char_242_otter",
+                "char_215_mantic"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_13_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_202_demkni",
+                "char_400_weedy"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_241_panda",
+                "char_140_whitew",
+                "char_279_excu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_12_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_188_helage",
+                "char_134_ifrit"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_107_liskam",
+                "char_115_headbr",
+                "char_306_leizi"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_12_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_147_shining",
+                "char_017_huang"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_143_ghost",
+                "char_108_silent",
+                "char_173_slchan"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_11_0_6": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_172_svrash",
+                "char_2013_cerber"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_201_moeshd",
+                "char_101_sora",
+                "char_254_vodfox"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_11_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_340_shwaz",
+                "char_263_skadi"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_204_platnm",
+                "char_261_sddrag",
+                "char_166_skfire"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_11_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_291_aglina",
+                "char_222_bpipe"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_148_nearl",
+                "char_243_waaifu",
+                "char_379_sesa"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_10_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_179_cgbird",
+                "char_213_mostma"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_274_astesi",
+                "char_106_franka",
+                "char_174_slbell"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_10_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_010_chen",
+                "char_103_angel"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_129_bluep",
+                "char_356_broca",
+                "char_242_otter"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_10_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_136_hsguma",
+                "char_248_mgllan"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_102_texas",
+                "char_195_glassb",
+                "char_128_plosis"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_9_0_6": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_180_amgoat",
+                "char_225_haak"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_171_bldsk",
+                "char_215_mantic",
+                "char_306_leizi"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_9_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_112_siege",
+                "char_340_shwaz"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_308_swire",
+                "char_107_liskam",
+                "char_144_red"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_9_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_263_skadi",
+                "char_291_aglina"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_164_nightm",
+                "char_140_whitew",
+                "char_101_sora"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_8_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_147_shining",
+                "char_010_chen"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_115_headbr",
+                "char_201_moeshd",
+                "char_219_meteo"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_8_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_134_ifrit",
+                "char_213_mostma"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_241_panda",
+                "char_143_ghost",
+                "char_243_waaifu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_8_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_103_angel",
+                "char_179_cgbird"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_145_prove",
+                "char_356_broca",
+                "char_242_otter"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_7_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_202_demkni",
+                "char_172_svrash"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_173_slchan",
+                "char_261_sddrag",
+                "char_129_bluep"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_6_0_7": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_136_hsguma",
+                "char_248_mgllan"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_144_red",
+                "char_279_excu",
+                "char_128_plosis"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_6_0_6": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_180_amgoat",
+                "char_263_skadi"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_108_silent",
+                "char_164_nightm",
+                "char_308_swire"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_6_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_112_siege",
+                "char_010_chen"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_195_glassb",
+                "char_107_liskam",
+                "char_102_texas"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_6_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_147_shining",
+                "char_188_helage"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_215_mantic",
+                "char_115_headbr",
+                "char_171_bldsk"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_6_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_291_aglina",
+                "char_172_svrash"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_106_franka",
+                "char_174_slbell",
+                "char_241_panda"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_5_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_179_cgbird",
+                "char_340_shwaz"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_204_platnm",
+                "char_274_astesi",
+                "char_173_slchan"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_5_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_134_ifrit",
+                "char_202_demkni"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_242_otter",
+                "char_115_headbr",
+                "char_144_red"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_4_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_136_hsguma",
+                "char_112_siege"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_101_sora",
+                "char_326_glacus",
+                "char_129_bluep"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_4_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_147_shining",
+                "char_179_cgbird"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_148_nearl",
+                "char_174_slbell",
+                "char_140_whitew"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_4_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_202_demkni",
+                "char_263_skadi"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_219_meteo",
+                "char_241_panda",
+                "char_195_glassb"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_3_0_6": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_172_svrash",
+                "char_134_ifrit"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_107_liskam",
+                "char_242_otter",
+                "char_171_bldsk"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_3_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_112_siege",
+                "char_103_angel"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_158_milu",
+                "char_164_nightm",
+                "char_102_texas"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_3_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_291_aglina",
+                "char_136_hsguma"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_128_plosis",
+                "char_140_whitew",
+                "char_101_sora"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_2_0_6": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_147_shining",
+                "char_263_skadi"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_166_skfire",
+                "char_173_slchan",
+                "char_148_nearl"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_2_0_5": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_134_ifrit",
+                "char_103_angel"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_174_slbell",
+                "char_115_headbr",
+                "char_204_platnm"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_2_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_202_demkni",
+                "char_180_amgoat"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_144_red",
+                "char_145_prove",
+                "char_106_franka"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_2_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_112_siege",
+                "char_291_aglina"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_171_bldsk",
+                "char_215_mantic",
+                "char_158_milu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_1_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_179_cgbird",
+                "char_172_svrash"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_129_bluep",
+                "char_101_sora",
+                "char_128_plosis"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_1_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_202_demkni",
+                "char_147_shining"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_143_ghost",
+                "char_195_glassb",
+                "char_144_red"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_0_1_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_134_ifrit",
+                "char_180_amgoat"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_140_whitew",
+                "char_242_otter",
+                "char_108_silent"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_0_1_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_179_cgbird",
+                "char_112_siege"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_102_texas",
+                "char_204_platnm",
+                "char_106_franka"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_0_1_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_291_aglina",
+                "char_103_angel"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_201_moeshd",
+                "char_166_skfire",
+                "char_115_headbr"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_47_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_213_mostma",
+                "char_180_amgoat"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_367_swllow",
+                "char_140_whitew",
+                "char_145_prove"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_47_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_263_skadi",
+                "char_248_mgllan"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_174_slbell",
+                "char_226_hmau",
+                "char_171_bldsk"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_45_0_4": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_172_svrash",
+                "char_2013_cerber"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_107_liskam",
+                "char_108_silent",
+                "char_306_leizi"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_45_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_340_shwaz",
+                "char_250_phatom"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_241_panda",
+                "char_356_broca",
+                "char_261_sddrag"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_45_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_147_shining",
+                "char_103_angel"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_243_waaifu",
+                "char_129_bluep",
+                "char_164_nightm"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_44_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_017_huang",
+                "char_291_aglina"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_195_glassb",
+                "char_379_sesa",
+                "char_254_vodfox"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_44_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_222_bpipe",
+                "char_136_hsguma"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_166_skfire",
+                "char_102_texas",
+                "char_204_platnm"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_43_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_134_ifrit",
+                "char_010_chen"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_115_headbr",
+                "char_242_otter",
+                "char_279_excu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_42_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_112_siege",
+                "char_188_helage"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_101_sora",
+                "char_326_glacus",
+                "char_174_slbell"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_42_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_2013_cerber",
+                "char_172_svrash"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_143_ghost",
+                "char_128_plosis",
+                "char_158_milu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_42_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_225_haak",
+                "char_179_cgbird"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_106_franka",
+                "char_107_liskam",
+                "char_243_waaifu"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_41_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_250_phatom",
+                "char_213_mostma"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_144_red",
+                "char_173_slchan",
+                "char_274_astesi"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_40_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_180_amgoat",
+                "char_340_shwaz"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_308_swire",
+                "char_367_swllow",
+                "char_215_mantic"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_40_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_248_mgllan",
+                "char_225_haak"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_201_moeshd",
+                "char_219_meteo",
+                "char_148_nearl"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_39_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_202_demkni",
+                "char_134_ifrit"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_171_bldsk",
+                "char_140_whitew",
+                "char_145_prove"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_39_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_103_angel",
+                "char_112_siege"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_279_excu",
+                "char_306_leizi",
+                "char_226_hmau"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_38_0_3": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_291_aglina",
+                "char_147_shining"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_261_sddrag",
+                "char_356_broca",
+                "char_367_swllow"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_38_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_010_chen",
+                "char_222_bpipe"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_164_nightm",
+                "char_129_bluep",
+                "char_107_liskam"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_37_0_2": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_136_hsguma",
+                "char_263_skadi"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_108_silent",
+                "char_106_franka",
+                "char_241_panda"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "CLASSIC_37_0_1": [
+        {
+            "rarityRank": 5,
+            "charIdList": [
+                "char_188_helage",
+                "char_017_huang"
+            ],
+            "percent": 0.25,
+            "count": 2
+        },
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_102_texas",
+                "char_379_sesa",
+                "char_254_vodfox"
+            ],
+            "percent": 0.16666666666666666,
+            "count": 3
+        }
+    ],
+    "NORM_11_0_3": [
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_344_beewax",
+                "char_349_chiave"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ],
+    "NORM_10_0_1": [
+        {
+            "rarityRank": 4,
+            "charIdList": [
+                "char_378_asbest",
+                "char_343_tknogi"
+            ],
+            "percent": 0.25,
+            "count": 2
+        }
+    ]
+}

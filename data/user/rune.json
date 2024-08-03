@@ -1,5 +1,19 @@
 {
-    "chosenCrisis": "cc12",
-    "chosenRisks": [],
-    "totalRisks": 0
+    "mapId": "level_rune_07-01",
+    "runeSlots": [
+        "node_enemy_dekght_bmod_3",
+        "node_enemy_lfkght_3",
+        "node_enemy_atk_3",
+        "node_enemy_hp_2",
+        "node_char_atk_3",
+        "node_char_defmagicresistance_3",
+        "node_global_costrecovery_3",
+        "node_global_forbidloc_2",
+        "node_global_squadnum_3",
+        "node_char_exclude_castersupporter_2",
+        "node_global_lifepoint_1",
+        "node_char_hp_2",
+        "node_enemy_scorpn_1",
+        "node_enemy_attackspeed_1"
+    ]
 }

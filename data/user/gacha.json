@@ -1,0 +1,52 @@
+{
+    "normal": {
+        "tags": [
+            11,
+            14
+        ],
+        "charId": "char_4064_mlynar",
+        "isNew": 1
+    },
+    "advanced": [
+        {
+            "charId": "char_479_sleach",
+            "isNew": 1
+        },
+        {
+            "charId": "char_293_thorns",
+            "isNew": 1
+        },
+        {
+            "charId": "char_4064_mlynar",
+            "isNew": 1
+        },
+        {
+            "charId": "char_264_f12yin",
+            "isNew": 1
+        },
+        {
+            "charId": "char_350_surtr",
+            "isNew": 1
+        },
+        {
+            "charId": "char_1013_chen2",
+            "isNew": 1
+        },
+        {
+            "charId": "char_003_kalts",
+            "isNew": 1
+        },
+        {
+            "charId": "char_179_cgbird",
+            "isNew": 1
+        },
+        {
+            "charId": "char_358_lisa",
+            "isNew": 1
+        },
+        {
+            "charId": "char_1028_texas2",
+            "isNew": 1
+        }
+    ]
+}

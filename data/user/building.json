@@ -379,7 +379,9 @@
             "slot_8": {}
         },
         "HIRE": {
-            "slot_23": {}
+            "slot_23": {
+                "refreshCount": 3
+            }
         },
         "MANUFACTURE": {
             "slot_14": {
@@ -553,6 +555,25 @@
         },
         "4093": {
             "charId": "char_4093_frston",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4136": {
+            "charId": "char_4136_phonor",
             "lastApAddTime": 1695000000,
             "ap": 8640000,
             "roomSlotId": "",
@@ -1900,6 +1921,25 @@
             },
             "workTime": 0
         },
+        "4130": {
+            "charId": "char_4130_luton",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "196": {
             "charId": "char_196_sunbr",
             "lastApAddTime": 1695000000,
@@ -2204,6 +2244,25 @@
             },
             "workTime": 0
         },
+        "4023": {
+            "charId": "char_4023_rfalcn",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "261": {
             "charId": "char_261_sddrag",
             "lastApAddTime": 1695000000,
@@ -2242,6 +2301,25 @@
             },
             "workTime": 0
         },
+        "1036": {
+            "charId": "char_1036_fang2",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "401": {
             "charId": "char_401_elysm",
             "lastApAddTime": 1695000000,
@@ -2261,8 +2339,46 @@
             },
             "workTime": 0
         },
+        "4119": {
+            "charId": "char_4119_wanqin",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "476": {
             "charId": "char_476_blkngt",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4147": {
+            "charId": "char_4147_mitm",
             "lastApAddTime": 1695000000,
             "ap": 8640000,
             "roomSlotId": "",
@@ -2358,6 +2474,25 @@
         },
         "4106": {
             "charId": "char_4106_bryota",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4125": {
+            "charId": "char_4125_rdoc",
             "lastApAddTime": 1695000000,
             "ap": 8640000,
             "roomSlotId": "",
@@ -2660,6 +2795,25 @@
             },
             "workTime": 0
         },
+        "4126": {
+            "charId": "char_4126_fuze",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "274": {
             "charId": "char_274_astesi",
             "lastApAddTime": 1695000000,
@@ -2776,6 +2930,25 @@
         },
         "486": {
             "charId": "char_486_takila",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4131": {
+            "charId": "char_4131_odda",
             "lastApAddTime": 1695000000,
             "ap": 8640000,
             "roomSlotId": "",
@@ -3344,6 +3517,25 @@
             },
             "workTime": 0
         },
+        "446": {
+            "charId": "char_446_aroma",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "4013": {
             "charId": "char_4013_kjera",
             "lastApAddTime": 1695000000,
@@ -3420,6 +3612,25 @@
             },
             "workTime": 0
         },
+        "4081": {
+            "charId": "char_4081_warmy",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "242": {
             "charId": "char_242_otter",
             "lastApAddTime": 1695000000,
@@ -3441,6 +3652,25 @@
         },
         "336": {
             "charId": "char_336_folivo",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4140": {
+            "charId": "char_4140_lasher",
             "lastApAddTime": 1695000000,
             "ap": 8640000,
             "roomSlotId": "",
@@ -3705,6 +3935,25 @@
             },
             "workTime": 0
         },
+        "4139": {
+            "charId": "char_4139_papyrs",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "148": {
             "charId": "char_148_nearl",
             "lastApAddTime": 1695000000,
@@ -3840,6 +4089,25 @@
         },
         "107": {
             "charId": "char_107_liskam",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4137": {
+            "charId": "char_4137_udflow",
             "lastApAddTime": 1695000000,
             "ap": 8640000,
             "roomSlotId": "",
@@ -4389,6 +4657,25 @@
             },
             "workTime": 0
         },
+        "4079": {
+            "charId": "char_4079_haini",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "195": {
             "charId": "char_195_glassb",
             "lastApAddTime": 1695000000,
@@ -4429,6 +4716,25 @@
         },
         "4032": {
             "charId": "char_4032_provs",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4122": {
+            "charId": "char_4122_grabds",
             "lastApAddTime": 1695000000,
             "ap": 8640000,
             "roomSlotId": "",
@@ -4731,6 +5037,44 @@
             },
             "workTime": 0
         },
+        "4124": {
+            "charId": "char_4124_iana",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4151": {
+            "charId": "char_4151_tinman",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "103": {
             "charId": "char_103_angel",
             "lastApAddTime": 1695000000,
@@ -4940,8 +5284,65 @@
             },
             "workTime": 0
         },
+        "1035": {
+            "charId": "char_1035_wisdel",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "1013": {
             "charId": "char_1013_chen2",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4117": {
+            "charId": "char_4117_ray",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4138": {
+            "charId": "char_4138_narant",
             "lastApAddTime": 1695000000,
             "ap": 8640000,
             "roomSlotId": "",
@@ -5206,6 +5607,25 @@
             },
             "workTime": 0
         },
+        "4133": {
+            "charId": "char_4133_logos",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "2015": {
             "charId": "char_2015_dusk",
             "lastApAddTime": 1695000000,
@@ -5320,6 +5740,25 @@
             },
             "workTime": 0
         },
+        "4146": {
+            "charId": "char_4146_nymph",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "206": {
             "charId": "char_206_gnosis",
             "lastApAddTime": 1695000000,
@@ -5398,6 +5837,25 @@
         },
         "1012": {
             "charId": "char_1012_skadi2",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4134": {
+            "charId": "char_4134_cetsyr",
             "lastApAddTime": 1695000000,
             "ap": 8640000,
             "roomSlotId": "",
@@ -5662,6 +6120,25 @@
             },
             "workTime": 0
         },
+        "4132": {
+            "charId": "char_4132_ascln",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "1023": {
             "charId": "char_1023_ghost2",
             "lastApAddTime": 1695000000,
@@ -5683,6 +6160,25 @@
         },
         "4048": {
             "charId": "char_4048_doroth",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4123": {
+            "charId": "char_4123_ela",
             "lastApAddTime": 1695000000,
             "ap": 8640000,
             "roomSlotId": "",
@@ -5854,6 +6350,25 @@
         },
         "423": {
             "charId": "char_423_blemsh",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "2025": {
+            "charId": "char_2025_shu",
             "lastApAddTime": 1695000000,
             "ap": 8640000,
             "roomSlotId": "",
@@ -6099,6 +6614,44 @@
             },
             "workTime": 0
         },
+        "4145": {
+            "charId": "char_4145_ulpia",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4058": {
+            "charId": "char_4058_pepe",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "10": {
             "charId": "char_010_chen",
             "lastApAddTime": 1695000000,
@@ -6234,6 +6787,25 @@
         },
         "188": {
             "charId": "char_188_helage",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4121": {
+            "charId": "char_4121_zuole",
             "lastApAddTime": 1695000000,
             "ap": 8640000,
             "roomSlotId": "",
@@ -12316,6 +12888,970 @@
             "count": 9999,
             "inUse": 0
         },
+        "furni_shuttle_chandelier_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_hanger_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_plant_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_tire_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_console_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_chair_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_table_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_carpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_board_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_dashboard_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_container_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_bench_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_bench_02": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_metercabinet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_ringstand_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_bed_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_frame_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_shuttle_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_ceilingLamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_table_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_cabinet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_bookshelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_chair_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_cabinet_02": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_lamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_ceilingLights_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_chair_02": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_carpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_tapestry_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_pool_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_incense_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_stand_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_basket_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_shelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_table_02": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TempleFair_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_minilight_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_bookshelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_floorlamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_decoratelamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_carpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_database_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_table_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_stonecutoff_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_bench_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_cabinet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_chair_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_walllamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_datashelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_largelight_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_armchair_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_querydevice_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_TianshiMansion_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_woodenchandelier_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_yarncutoff_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_bed_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_table_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_gemlight_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_gemcactus_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_ceiling_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_chair_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_stocktable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_carpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_clothshelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_brokencarpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_stoneshelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_stockcart_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_chandelier_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_ceilingbasket_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SargonFair_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_headset_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_weirdexhibit_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_brochure_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_fence_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_chandelier_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_sculpture_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_notouch_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_whaleexhibit_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_pepperexhibit_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_stoneexhibit_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_fossil_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_bench_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_carpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_twistexhibit_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_pillar_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_blackexhibit_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_droplight_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_plant_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_artmuseum_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_shortstick_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_ironbasket_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_storagetable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_longstick_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_collectioncabinet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_ironbox_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_partitionwall_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_storagewall_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_roundtable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_ceilinglamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_storagecabinet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_stovetable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_shortstick_02": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_table_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_carbonfirebox_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_ironcabinet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_bench_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_stool_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_carpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_shoerack_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ScarMarket_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_pillar_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_decklocker_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_catalogstand_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_telescope_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_ceilingtrumpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_chair_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_bench_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_ceilinglamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_controldesk_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_faxmachine_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_table_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_partitionwall_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_bunkbed_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_partitiondesk_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_carpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_Airship_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_spinningtoy_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_curtain_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_bar_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_walllamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_gift_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_ceilinglamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_diningTable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_stool_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_lampblock_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_camera_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_shelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_sofa_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_carpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_ceilingLight_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_floorLamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_card_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_jukebox_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_RhodesRabbit_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_samplecabinet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_circularspecimenrack_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_suspendedspecimenrack_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_backrestchair_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_liftplatform_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_mirrorspecimenrack_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_chandelier_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_projectionequipment_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_specimentable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_barstool_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_carpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_spikedspecimenrack_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_largespecimen_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_pendantlight_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_rectangularspecimenrack_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_waterbed_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_littlehelper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_nightstand_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_HunterInstitute_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_corner_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_locket_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_chandelier_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_display_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_light_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_table_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_carpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_key_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_chair_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_mirror_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_column_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_ornament_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_cabinet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_sofa_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_lamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_mindsanctum_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_showcase_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_traylamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_lotus_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_curtain_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_shelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_bench_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_rug_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_floorlamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_table_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_lampstand_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_pendant_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_bed_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_pond_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_shelfgroup_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_collection_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_pepesroom_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_ceilingplant_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_flowerdeco_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_bigvase_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_plantwall_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_bench_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_fense_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_shelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_sink_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_fourtain_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_stool_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_bonsai_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_tray_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_plantshelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_jewelcat_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_vaseshelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_cutoff_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_citizengarden_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_headset_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_stairs_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_bartable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_mat_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_barstool_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_table_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_guitar_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_discoplant_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_aquarium_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_keyboards_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_carpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_dddposter_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_decopillar_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_chest_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_bed_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_amuselounge_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
         "furni_oct1st_deckChair_01": {
             "count": 9999,
             "inUse": 0
@@ -12632,6 +14168,10 @@
             "count": 9999,
             "inUse": 0
         },
+        "furni_SF2024_blessingPic_01": {
+            "count": 9999,
+            "inUse": 0
+        },
         "furni_obsidianFestival_DJBooth_01": {
             "count": 9999,
             "inUse": 0
@@ -12669,6 +14209,30 @@
             "inUse": 0
         },
         "furni_act45d4_newYearPic_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_foolsDay_coat_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_sanrio_cinnamoroll_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_sanrio_melody_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_act53d0_orangeStorm_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_duanwu2024_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_duanwu2024_02": {
             "count": 9999,
             "inUse": 0
         },
@@ -12992,6 +14556,42 @@
             "count": 9999,
             "inUse": 0
         },
+        "furni_terratimes_RimBilliton_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_terratimes_Yan_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_terracommericials_CoffeePlainsCoffeeCandy_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_terratimes_Babel_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_terracommericials_WrankwoodFilmFestival_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_terratimes_AbyssalHunters_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_terracommericials_DreamingEssence_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_terratimes_Sargon_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_terracommericials_OrangeStorm_01": {
+            "count": 9999,
+            "inUse": 0
+        },
         "furni_contract_s0_01": {
             "count": 9999,
             "inUse": 0
@@ -13049,6 +14649,10 @@
             "inUse": 0
         },
         "furni_contract2_s1_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_contract2_s2_01": {
             "count": 9999,
             "inUse": 0
         },
@@ -13124,6 +14728,18 @@
             "count": 9999,
             "inUse": 0
         },
+        "furni_annihilation_s21_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_annihilation_s22_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_annihilation_s23_01": {
+            "count": 9999,
+            "inUse": 0
+        },
         "furni_taptap_arcadegame_01": {
             "count": 9999,
             "inUse": 0
@@ -13169,6 +14785,14 @@
             "inUse": 0
         },
         "furni_guangming_xiongXiaoBai_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ExAstris_Wei_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_ExAstris_Yan_01": {
             "count": 9999,
             "inUse": 0
         },
@@ -13313,6 +14937,22 @@
             "inUse": 0
         },
         "furni_act44d0_rise_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_animation_monitor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_animation_frostnovaDevice_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_act50d0_hourGlass_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_sandbox_station_01": {
             "count": 9999,
             "inUse": 0
         }
