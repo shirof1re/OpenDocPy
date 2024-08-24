@@ -4,8 +4,6 @@ It's a pity that DoctoratePy is no longer maintained. Therefore, this repo aims 
 
 Python server implementation of a certain anime tower defense game. This repo is for the CN TapTap Version.
 
-Discord: [https://discord.com/invite/SmuB88RR5W](https://discord.com/invite/SmuB88RR5W)
-
 ## Currently tested emulator to be working
 
 1. MuMu Player 6 (MuMu Player 12 is no longer supported, sad) 
