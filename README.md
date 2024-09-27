@@ -6,14 +6,14 @@ Python server implementation of a certain anime tower defense game. This repo is
 
 ## Currently tested emulator to be working
 
-1. MuMu Player 6 (MuMu Player 12 is no longer supported, sad) 
+1. MuMu Player 12 
 
 ## How To
 
-### MuMu Player 6
+### MuMu Player 12
 
 1. Enable root permission and adb connection in MuMu Player's settings.
-2. Start MuMu Player 6.
+2. Start MuMu Player 12.
 3. Run `setup_requirements.bat`, and success can be indicated from `"Press enter to exit..."`.
 4. Run `start_local_server.bat`, and the window should stay open if no error occurs.
 5. Run `start_frida-server.bat`, and the window should stay open if no error occurs.
